@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCVaultTokenManagement", "HCVaultTokenManagement.csproj", "{8AE9C18E-FB2B-4D15-9F12-0E828B52C874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE9C18E-FB2B-4D15-9F12-0E828B52C874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE9C18E-FB2B-4D15-9F12-0E828B52C874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE9C18E-FB2B-4D15-9F12-0E828B52C874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE9C18E-FB2B-4D15-9F12-0E828B52C874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C44BECB-E64F-48E2-AFD8-38C0A6DF9BB3}
+	EndGlobalSection
+EndGlobal
